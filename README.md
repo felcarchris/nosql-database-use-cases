@@ -11,6 +11,7 @@ storage scenarios.
 
 ## Current contents
 - `Trabalho Bras 2024-11-11` -> preserved as `notebooks/original/trabalho_bras_2024_11_11_original.ipynb`
+- `Neo4j.ipynb` -> preserved as `notebooks/original/neo4j_product_recommendation_original.ipynb`
 
 ## Positioning
 This collection is meant for compact, didactic storage examples. Projects should move to their own
@@ -24,8 +25,10 @@ nosql-database-use-cases/
 |-- notebooks/
 |   `-- original/
 |       `-- trabalho_bras_2024_11_11_original.ipynb
+|       `-- neo4j_product_recommendation_original.ipynb
 |-- docs/
 |   `-- trabalho_bras_2024_11_11_assessment.md
+|   `-- neo4j_product_recommendation_assessment.md
 |-- data/
 |   |-- raw/
 |   |   `-- .gitkeep
@@ -39,4 +42,3 @@ nosql-database-use-cases/
 - keep each case small and explicit about the storage goal
 - avoid hard-coded local endpoints or credentials in public-facing versions
 - separate one notebook per database or use case when refactoring later
-

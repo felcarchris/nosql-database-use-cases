@@ -55,4 +55,3 @@ neo4j/
 ## Honest portfolio framing
 Publicly, this should be described as a collection of introductory NoSQL modeling labs, not as a
 production-ready persistence platform.
-
