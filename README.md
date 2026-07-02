@@ -14,6 +14,7 @@ storage scenarios.
 - `Neo4j.ipynb` -> preserved as `notebooks/original/neo4j_product_recommendation_original.ipynb`
 - `Análise de Dados de Mídia Social` -> preserved as `notebooks/original/mongodb_social_media_posts_original.ipynb`
 - `Armazenamento de Dados de Comércio Eletrônico` -> preserved as `notebooks/original/mongodb_ecommerce_products_original.ipynb`
+- `Gerenciamento de Conteúdo` -> preserved as `notebooks/original/mongodb_content_management_original.ipynb`
 
 ## Positioning
 This collection is meant for compact, didactic storage examples. Projects should move to their own
@@ -30,11 +31,13 @@ nosql-database-use-cases/
 |       `-- neo4j_product_recommendation_original.ipynb
 |       `-- mongodb_social_media_posts_original.ipynb
 |       `-- mongodb_ecommerce_products_original.ipynb
+|       `-- mongodb_content_management_original.ipynb
 |-- docs/
 |   `-- trabalho_bras_2024_11_11_assessment.md
 |   `-- neo4j_product_recommendation_assessment.md
 |   `-- mongodb_social_media_posts_assessment.md
 |   `-- mongodb_ecommerce_products_assessment.md
+|   `-- mongodb_content_management_assessment.md
 |-- data/
 |   |-- raw/
 |   |   `-- .gitkeep
